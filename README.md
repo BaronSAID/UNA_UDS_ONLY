@@ -14,10 +14,6 @@
       sintaxa: [nrOp],[nr chec],[suma],[id_tranzaction UDS]
         ex: /MSG302,1478,30.22,413097842
 
-    # Operatiuni QIWI
-    - 401 Achitarea
-      sintaxa: [nrOp],[suma],[valuta]
-        /MSG401,1.25,498
     
     
     
