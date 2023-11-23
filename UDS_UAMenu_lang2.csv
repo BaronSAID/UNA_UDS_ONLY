@@ -1,0 +1,23 @@
+st_spre_plata,Spre plata:,For a fee:,К оплате:
+st_client_id,ID/Nr telefon client,Client ID/Nr Phone,ID клиента/номер телефона
+bt_uds_continue,Continue,Continue,Продолжать
+st_uds_total_points,Total puncte loialitate:,Total loyalty points:,Всего баллов лояльности:
+st_max_bonus,Max bonus:,Max bonus:,Максимальный бонус:
+bt_set_non_points,Fara puncte,No points,Нет баллов
+bt_set_points,Cu puncte,With points,С баллами
+st_cash_back,CASHBACK,CASHBACK,CASHBACK
+st_uds_sum_total,Total,Total,Сумма
+st_uds_nrcheck,Nr. Check:,Nr. Check:,Нр. Чека:
+st_uds_casir,Casier:,Unit:,Касир:
+st_uds_bonus,Bonus UDS:,UDS Bonuses:,UDS Бонусы:
+bt_uds_pay,Achita,Pay,Оплатить
+st_transaction_id,ID Trsanzactie,ID Transaction,ИД трансакции
+st_sum_return,Suma return,Suma return,Сума вазврата
+bt_return,Return,Return,Возврат
+v_msg_not_client,Introduceti/Scanati id client,Enter/Scan customer id,Введите/отсканируйте идентификатор клиента
+v_err_not_id_popup,Opera?iunea nu poate fi continuat?. Verifica?i v?rog ID/Nr. de telefon client indicat,The operation cannot be continued. Please check ID/No. indicated customer phone number,Операция не может быть продолжена. Пожалуйста. проверьте ID/No. клиента
+v_err_not_id_popup2,ID/Nr. Telefon,ID/No. Telephone,ID/№ телефон
+v_err_not_id_popup3,Message UDS,Message UDS,Сообщение UDS
+v_msg_popup_max_points,Reducerea poate fi aplicata pina la suma,The discount can be applied up to the amount,Скидка может быть применена до суммы
+v_transaction_success,Tranzactie cu success,Successful transaction,Успешная транзакция
+v_msg_indicate_trans_id,Indicati ID Tranzactie,Indicate Transaction ID,Укажите ид. транзакции
